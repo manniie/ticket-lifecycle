@@ -49,5 +49,5 @@ The user Karen Doe is submitting a ticket that her employees can not access the 
 
 ![image](https://github.com/user-attachments/assets/ed8053a1-69cf-4d21-b296-f3766da6e16b)
 
-<p>Jane found a temporary solution, provides information on the permanent resoltuion, and set it to resolved.</p>
+<p>Jane found a temporary solution, provides information on the permanent resolution, and set it to resolved.</p>
 <hr>
