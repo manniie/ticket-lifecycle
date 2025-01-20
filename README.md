@@ -38,3 +38,16 @@ The user Karen Doe is submitting a ticket that her employees can not access the 
 ![image](https://github.com/user-attachments/assets/819ec945-80bd-40a0-833f-5efe139a8ccf)
 
 <p>Shows John, an employee opened the ticket, assigned the ticket to the online banking team, gave the customer frequent updates, assigned it to the proper help topic, and set the SLA to Sev-A.</p>
+<hr>
+<h3>Working The Issue</h3>
+
+![image](https://github.com/user-attachments/assets/44ca865f-a70f-4f88-a055-e9bfef272460)
+
+<p>The ticket was assigned to the online banking team, Jane took the ticket, and provided an update to the customer that she is working on a resolution to the issue.</p>
+<hr>
+<h3>Resolution</h3>
+
+![image](https://github.com/user-attachments/assets/ed8053a1-69cf-4d21-b296-f3766da6e16b)
+
+<p>Jane found a temporary solution, provides information on the permanent resoltuion, and set it to resolved.</p>
+<hr>
