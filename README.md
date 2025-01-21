@@ -57,3 +57,4 @@ The user Karen Doe is submitting a ticket that her employees can not access the 
 However, there are additional scenarios that can arise while a ticket is being processed. A ticket may be reassigned to another department, its severity level may be escalated, or it may need to be reassigned to a more qualified agent or department, depending on the impact the ticket has on the business.
 
 I hope this tutorial provides a clearer understanding and a better general overview of a ticket’s life cycle. Help desk agents can expect to handle anywhere from 10 to 100 tickets per day, depending on the size of the company.</p>
+<hr>
