@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This section outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -51,3 +51,9 @@ The user Karen Doe is submitting a ticket that her employees can not access the 
 
 <p>Jane found a temporary solution, provides information on the permanent resolution, and set it to resolved.</p>
 <hr>
+
+<p>This is a basic overview of how a user creates a ticket, how it's assigned, and how communication between agents & customer occurs, ultimately leading to a resolution.
+
+However, there are additional scenarios that can arise while a ticket is being processed. A ticket may be reassigned to another department, its severity level may be escalated, or it may need to be reassigned to a more qualified agent or department, depending on the impact the ticket has on the business.
+
+I hope this tutorial provides a clearer understanding and a better general overview of a ticket’s life cycle. Help desk agents can expect to handle anywhere from 10 to 100 tickets per day, depending on the size of the company.</p>
