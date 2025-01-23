@@ -56,5 +56,9 @@ The user Karen Doe is submitting a ticket that her employees can not access the 
 
 However, there are additional scenarios that can arise while a ticket is being processed. A ticket may be reassigned to another department, its severity level may be escalated, or it may need to be reassigned to a more qualified agent or department, depending on the impact the ticket has on the business.
 
-I hope this tutorial provides a clearer understanding and a better general overview of a ticket’s life cycle. Help desk agents can expect to handle anywhere from 10 to 100 tickets per day, depending on the size of the company.</p>
+I hope this tutorial provides a clearer understanding and a better general overview of a ticket’s life cycle. Help desk agents can expect to handle anywhere from 10 to 100 tickets per day, depending on the size of the company.
+
+Now that we're finished, make sure to CLEAN UP YOUR AZURE ENVIRONMENT to avoid any unnecessary charges.
+
+Remember to close your Remote Desktop connection, delete the Resource Group(s) you created at the start of the tutorial, and verify that the Resource Group has been successfully deleted.</p>
 <hr>
